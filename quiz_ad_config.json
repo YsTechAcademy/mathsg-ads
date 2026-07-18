@@ -3,7 +3,7 @@
   "ads": {
     "isAdActive": true,
     "adImages": [
-      { "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg", "targetUrl": "https://play.google.com" },
+      { "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg", "targetUrl": "" },
        { "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/logomathsg.jpeg", "targetUrl": "" },
     ]
   }
