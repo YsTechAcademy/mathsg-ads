@@ -1,8 +1,8 @@
 [
   {
-    "active": false,
+    "active": true,
     "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
-    "targetUrl": "https://play.google.com/store/apps/details?id=com.app.one"
+    "targetUrl": ""
   },
   {
     "active": false,
