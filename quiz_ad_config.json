@@ -1,16 +1,11 @@
-{
-  "ads": {
-    "isAdActive": true,
-    "timerInterval": 4000,
-    "adImages": [
-      {
-        "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
-        "targetUrl": "https://play.google.com/store/apps/details?id=com.your.app"
-      },
-      {
-        "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
-        "targetUrl": "https://play.google.com/store/apps/details?id=com.your.anotherapp"
-      }
-    ]
+[
+  {
+    "active": true,
+    "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
+    "targetUrl": "https://play.google.com/store/apps/details?id=com.app.one"
+  },
+  {
+    "active": true,
+    "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/logomathsg.jpeg",
+    "targetUrl": "https://play.google.com/store/apps/details?id=com.app.two"
   }
-}
