@@ -1,11 +1,11 @@
 [
   {
-    "active": true,
+    "active": false,
     "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
     "targetUrl": "https://play.google.com/store/apps/details?id=com.app.one"
   },
   {
-    "active": true,
+    "active": false,
     "imageUrl": "https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/logomathsg.jpeg",
     "targetUrl": "https://play.google.com/store/apps/details?id=com.app.two"
   }
