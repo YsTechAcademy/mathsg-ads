@@ -5,10 +5,6 @@
     {
       "imageUrl":"https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebook.jpeg",
       "redirectUrl": ""
-    },
-     {
-      "imageUrl":"https://raw.githubusercontent.com/YsTechAcademy/mathsg-ads/main/ebookdummy.jpg",
-      "redirectUrl": ""
     }
   ],
   "timerInterval": 3000
